@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/725762092.svg)](https://doi.org/10.5281/zenodo.18807508)
 # JetSchemeAlgorithms
 Here you can find some code I have written for working with Jet Schemes in SageMath.
 
